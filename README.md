@@ -1,4 +1,6 @@
-# 📡 expo--cq
+## 📸 Ekran Görüntüsü
+
+<img src="assets/chat.png" alt="Chat Ekranı" width="300" />
 
 Gerçek zamanlı mesajlaşma uygulaması.  
 Expo (React Native) ve Socket.IO kullanılarak geliştirilmiştir.
